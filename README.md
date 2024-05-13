@@ -14,8 +14,9 @@ c) Write a method getPG, which takes an array of base type Movie as its argument
 
 d) Write a piece of code that creates an instance of the class Movie with the title “Casino Royale”, the studio “Eon Productions”, and the rating “PG­13”
 
+2. Convert the UML diagram to Typescript class. - use number for double
 
-2. Write a "person" class to hold all the details
+3. Write a "person" class to hold all the details
 
-3. Write a class to write the Uber price
+4. Write a class to write the Uber price
 
